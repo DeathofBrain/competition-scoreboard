@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/:/qt/etc/qt.conf">
+        <file>qt.conf</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>img/back.jpg</file>
+        <file>img/arrow-circle-up.png</file>
+        <file>img/arrow-circle-down.png</file>
+        <file>img/上_up.png</file>
+        <file>img/下_down.png</file>
+        <file>bgm/3min_prepare.MP3</file>
+        <file>bgm/game_bgm.MP3</file>
+        <file>bgm/pause.MP3</file>
+    </qresource>
+</RCC>
